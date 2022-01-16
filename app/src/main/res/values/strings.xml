@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">asyncTasks</string>
+    <string name="title_start">fake loading</string>
+    <string name="title_end">еще раз</string>
+</resources>
